@@ -125,5 +125,7 @@ public class Main {
         String name1 = new Scanner(System.in).nextLine();
         System.out.println("You are a "+age+" year old "+name1);
 
+        System.out.println(1>=2);
+
     }
 }
